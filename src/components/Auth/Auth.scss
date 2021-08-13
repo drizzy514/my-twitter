@@ -1,0 +1,23 @@
+.auth-container{
+    position: absolute;
+    top: 30px;
+    right: 0%;
+    width: 23%;
+}
+.auth-link{
+    margin-right: 30px;
+    text-decoration: none;
+    background-color: #58ABE2;
+    padding: 12px 40px;
+    color: #fff;
+    font-family: sans-serif;
+    border-radius: 50px;
+}
+.auth-link:hover{
+   color: #58ABE2;
+   background-color: #fff;
+   border: 1px solid #58ABE2;
+}
+.auth-link:last-child{
+    margin-right: 0;
+}
